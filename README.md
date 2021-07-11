@@ -1,5 +1,5 @@
 ### Hi there 👋
-**Welcome to my shitty repository!**
+**Welcome to my repository!**
 
 I'm learning how to use git.
 
